@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Helvetica Now', sans-serif;
+  --swiper-theme-color: rgb(24, 64, 54) !important;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+@font-face {
+  font-family: 'Helvetica Now Bold';
+  src: url('/fonts/HelveticaNowText-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica Now Text ';
+  src: local('Helvetica Now Text  Thin'), local('Helvetica-Now-Text--Thin'),
+      url('/fonts/HelveticaNowText-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
