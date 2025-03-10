@@ -99,7 +99,7 @@ function Header() {
           <NavLink
             to={"/people"}
             onClick={() => setIsClose(true)}
-            className={({isActive}) => `block pt-2 text-lg font-bold pr-4 text-right duration-200 ${isActive? `text-[#7ed957] `:`text-[#00bf63]`} hover:text-[#7ed957] `}
+            className={({isActive}) => `block pt-2 text-lg font-sm pr-4 text-right duration-200 ${isActive? `text-[#7ed957] `:`text-[#00bf63]`} hover:text-[#7ed957] `}
             >
             People
           </NavLink>
@@ -107,7 +107,7 @@ function Header() {
           <NavLink
             to={"/publications"}
             onClick={() => setIsClose(true)}
-            className={({isActive}) => `block pt-2 text-lg font-bold pr-4 text-right duration-200 ${isActive? `text-[#7ed957] `:`text-[#00bf63]`} hover:text-[#7ed957] `}
+            className={({isActive}) => `block pt-2 text-lg font-sm pr-4 text-right duration-200 ${isActive? `text-[#7ed957] `:`text-[#00bf63]`} hover:text-[#7ed957] `}
           >
             Publication
           </NavLink>
@@ -115,7 +115,7 @@ function Header() {
           <NavLink
             to={"/contact"}
             onClick={() => setIsClose(true)}
-            className={({isActive}) => `block pt-2 text-lg font-bold pr-4 text-right duration-200 ${isActive? `text-[#7ed957] `:`text-[#00bf63]`} hover:text-[#7ed957] `}
+            className={({isActive}) => `block pt-2 text-lg font-sm pr-4 text-right duration-200 ${isActive? `text-[#7ed957] `:`text-[#00bf63]`} hover:text-[#7ed957] `}
             >
             Contact
           </NavLink>
