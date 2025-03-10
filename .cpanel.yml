@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/emtechjk/repositories/
+    - export DEPLOYPATH=/home/emtechjk/public_html/
     - /bin/cp * $DEPLOYPATH
-  
+   
