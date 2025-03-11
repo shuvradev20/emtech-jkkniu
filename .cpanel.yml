@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/emtechjk/lab/emtech-jkkniu/
+    - export DEPLOYPATH=/home/emtechjk/public_html/emtech-jkkniu
     - /bin/cp * $DEPLOYPATH
