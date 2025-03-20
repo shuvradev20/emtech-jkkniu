@@ -17,7 +17,7 @@ function Home() {
   
       <div className="relative w-full h-[30vh] md:h-[70vh] before:content-[''] before:absolute before:inset-0 border-b-4 border-b-[#1c251b]">
         <video className="w-full z-1 h-full object-cover" autoPlay loop muted>
-          <source src="/video.mp4" type="video/mp4" />
+          {/* <source src="/video.mp4" type="video/mp4" /> */}
         </video>
 
         <div className="absolute w-1/2 md:w-1/3 h-full top-0 left-0 flex flex-col  items-start justify-center">
