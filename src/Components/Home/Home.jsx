@@ -124,9 +124,15 @@ function Home() {
             <div className='w-full min-h-75 bg-[#1c251b] px-5 pt-16 pb-17 md:px-18 flex flex-wrap flex-col justify-start items-start'>
               <div className='w-full mb-4 text-bold text-white h-auto text-3xl text-start '>Machine Learning</div>
               <div className='w-full h-min-75 flex flex-wrap flex-col md:flex-row justify-start items-start'>                 
-                <div className='w-full md:w-2/3 pb-4 text-lg md:pr-12 h-full text-justify'> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae eaque, ipsum, autem illum suscipit, consequuntur placeat nemo explicabo doloribus voluptatem soluta officiis impedit repellat voluptate reprehenderit neque cumque similique at?
-                  Voluptatem, aolorem libero possimus voluptatum officiis laudantium amet nemo eaque adipisci ribus hic, temporibus accusamus dolores alias iste autem cumque Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus nisi unde molestiae nobis. Harum ipsam alias dicta repellat, commodi obcaecati nesciunt quos beatae quibusdam, porro aut, consequatur deleniti distinctio asperiores?
-                 distinctio laborum ex dolordiandae esse maiores. Voluptates ducimus mollitia vitae eligendi. Temporibus, beatae earum? deserunt vel rem mollitia necessitatibus fugiat id voluptate saepe error accusantium enim. Quia?molestias possimus accusantium, minus quasi eius rem dolorum? Dolor quo temporibus cum ullam, molestias quod dignissimos accusamus quaerat sint praesentium illo.
+                <div className='w-full md:w-2/3 pb-4 text-lg md:pr-12 h-full text-justify'>
+                  We have completed several innovative machine-learning projects across healthcare, industrial safety, and cybersecurity.
+                  <br />
+                  <br />
+                  Our heart disease prediction model using logistic regression was presented at ICVEE-2024 and is published in IEEE Xplore. We developed an ammonia leakage detection and trip prediction system using a Naive Bayes (NB) model, which was showcased at ICRPSET-2024. Additionally, our work on enhancing cybersecurity in industrial power electronics through Random Forest hyperparameter tuning was presented at ICCIT-2024.
+                  <br />
+                  <br />
+                  We also created an ANN-driven feature selection-based heart disease classification model integrated into a web-based application, which will soon be submitted to a journal. Currently, we are developing a thyroid disease prediction system using real-time clinical data to enhance diagnostic accuracy...
+                  <button className='text-white hover:underline'>See more</button>
                 </div>
 
                 <div className='w-full md:w-1/3 rounded-lg h-70 md:h-80 bg-cover'
