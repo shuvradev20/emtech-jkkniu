@@ -2,7 +2,7 @@
 
 :root {
   font-family: 'Helvetica Now', sans-serif;
-  --swiper-theme-color: rgb(24, 64, 54) !important;
+  --swiper-theme-color: rgb(211, 227, 223) !important;
 }
 
 body {
@@ -25,5 +25,15 @@ body {
       url('/fonts/HelveticaNowText-Thin.woff') format('woff');
   font-weight: 100;
   font-style: normal;
+}
+
+/* Change pagination bullet color */
+.swiper-pagination-bullet {
+  background-color: rgb(211, 227, 223) !important;
+}
+
+/* Change active bullet color */
+.swiper-pagination-bullet-active {
+  background-color: rgb(211, 227, 223) !important;
 }
 
