@@ -17,7 +17,7 @@ function Home() {
   
       <div className="relative w-full h-[30vh] md:h-[70vh] before:content-[''] before:absolute before:inset-0 border-b-4 border-b-[#1c251b]">
         <video className="w-full z-1 h-full object-cover" autoPlay loop muted>
-          <source src="/video.mp4" type="video/mp4" />
+          <source src="./wcr.mp4" type="video/mp4" />
         </video>
 
         <div className="absolute w-1/2 md:w-1/3 h-full top-0 left-0 flex flex-col  items-start justify-center">
@@ -72,9 +72,8 @@ function Home() {
             <div className='w-full min-h-75 bg-[#1c251b] px-5 pt-16 pb-17 md:px-18 flex flex-wrap flex-col justify-start items-start'>
               <div className='w-full mb-4 text-white h-auto text-3xl text-start '>Project Aarohee</div>
               <div className='w-full h-min-75 flex flex-wrap flex-col md:flex-row justify-start items-start'>                 
-                <div className='w-full md:w-2/3 pb-4 text-lg md:pr-12 h-full text-justify'> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae eaque, ipsum, autem illum suscipit, consequuntur placeat nemo explicabo doloribus voluptatem soluta officiis impedit repellat voluptate reprehenderit neque cumque similique at?
-                  Voluptatem, aolorem libero possimus voluptatum officiis laudantium amet nemo eaque adipisci ribus hic, temporibus accusamus dolores alias iste autem cumque Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus nisi unde molestiae nobis. Harum ipsam alias dicta repellat, commodi obcaecati nesciunt quos beatae quibusdam, porro aut, consequatur deleniti distinctio asperiores?
-                 distinctio laborum ex dolordiandae esse maiores. Voluptates ducimus mollitia vitae eligendi. Temporibus, beatae earum? deserunt vel rem mollitia necessitatibus fugiat id voluptate saepe error accusantium enim. Quia?molestias possimus accusantium, minus quasi eius rem dolorum? Dolor quo temporibus cum ullam, molestias quod dignissimos accusamus quaerat sint praesentium illo.
+                <div className='w-full md:w-2/3 pb-4 text-lg md:pr-12 h-full text-justify'>
+                Project Aarohee is a wall-climbing robot designed to automate the traditional structural health monitoring methods. Our aim is to improve and automate the structural inspections by increasing efficiency, accuracy, and safety. Manual monitoring methods are labor-intensive, error-prone, and limited in their ability to reach higher floors. Aarohee is made with a propeller-based negative pressure adhesion system, with a standard wheeled locomotion system controlled by a microcontroller. Three prototypes have been made and tested, initial tests demonstrated that the robot successfully ran on both vertical and ceiling surfaces. Project Aarohee aims to automate structural inspections by cutting labor costs, minimizing errors, and promoting safety while aligning with Industry 4.0 principles. 
                 </div>
 
                 <div className='w-full md:w-1/3 h-70 rounded-lg md:h-80 bg-cover'
