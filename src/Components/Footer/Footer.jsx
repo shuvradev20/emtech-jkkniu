@@ -12,7 +12,7 @@ function Footer() {
         <div className='w-full md:w-1/3 flex justify-center md:justify-start items-center min-h-40 text-gray-300'>
           <ul>
             <li className='text-xl text-white'>Emerging Technologies Lab</li>
-            <li>Depertment of EEE, 4th Floor, Science Building</li>
+            <li>Dept. of EEE, 4th Floor, Science Building</li>
             <li>Jatiya Kabi Kazi Nazrul Islam University</li> 
             <li>Trishal, Mymensingh-2224, BD</li>
           </ul>

@@ -19,7 +19,7 @@ import Atiq from '../../assets/Atiq.jpg'
 import Shaugat from '../../assets/Shaugat.jpg'
 import Mahjabin from '../../assets/Mahjabin.jpg'
 import eashak from '../../assets/eashak.jpeg'
-import sir from '../../assets/sir.jpg'
+import sir from '../../assets/sir.jpeg'
 import abbasi from '../../assets/abbasi.JPG'
 import zarif from '../../assets/zarif.jpg'
 import zinia from '../../assets/zinia.jpg'
@@ -121,7 +121,7 @@ function People() {
               <li className='font-semibold'>Dr. Md Mahbubur Rahman</li>
               <li>Associate Professor, Depertment of EEE</li>
               <li>mahbubur.ice@gmail.com</li>
-              <li> <span className='font-semibold'>Research Interest:</span>Wireless Communication & Networks, Internet of Things, Machine Learning & AI Applications, Network Security & Performance Analysis, Embedded Systems & Edge Computing</li>
+              <li> <span className='font-semibold'>Research Interest: </span>Wireless Communication & Networks, Internet of Things, Machine Learning & AI Applications, Network Security & Performance Analysis, Embedded Systems & Edge Computing</li>
               <li className='text-sm'>
                 <a href="/CV_Mahbubur_latest.pdf" target="_blank" rel="noopener noreferrer" className=" pr-2 italic underline">
                   View CV

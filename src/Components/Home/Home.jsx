@@ -75,7 +75,7 @@ function Home() {
                   Project Aarohee is an advanced wall-climbing robot designed to automate structural health monitoring. It enhances efficiency, accuracy, and safety in inspections, minimizing the need for manual labor in hazardous environments. The robot features a propeller-based negative pressure adhesion system for a secure grip and a wheeled locomotion mechanism for smooth movement, making it suitable for various inspection tasks.
                   <br /><br />
                   Initial tests confirm its ability to operate on both vertical and ceiling surfaces, proving its reliability and adaptability. Its combination of adhesion technology and precise movement control ensures thorough inspections in challenging conditions. With its potential to transform structural health monitoring, Project Aarohee marks a significant step in automated inspection and maintenance.
-                  <span className="underline cursor-pointer pl-1"> See more</span>
+                  <span className="underline cursor-pointer ml-2">See more</span>
                 </div>
                 <div
                   className="w-full md:w-1/3 aspect-[4/3] rounded-lg bg-cover bg-center"
@@ -93,7 +93,7 @@ function Home() {
                   Aarohee MLS is a multimodal locomotion system that integrates drone technology with wall-climbing capabilities. Designed for adaptability, it serves various applications, with a primary focus on structural health monitoring. As an extension of Project Aarohee, it aims to revolutionize inspection processes and enhance robotic mobility.
                   <br /><br />
                   Initially developed for Structural Health Monitoring (SHM), the system can also function as a multi-purpose robot. The goal is to create a versatile locomotion platform capable of climbing and flying. Future advancements may introduce floating and diving capabilities, further expanding Aarohee MLS’s potential.
-                  <span className="underline cursor-pointer pl-1"> See more</span>
+                  <span className="underline cursor-pointer ml-2">See more</span>
                 </div>
                 <div
                   className="w-full md:w-1/3 aspect-[4/3] rounded-lg bg-cover bg-center"
@@ -110,8 +110,8 @@ function Home() {
                 <div className="w-full md:w-2/3 h-full pt-8 md:pt-0 md:pr-20 text-base text-justify">
                   We have completed several machine learning projects across healthcare, industrial safety, and cybersecurity, each contributing to cutting-edge advancements. Our heart disease prediction model, using logistic regression, was presented at ICVEE-2024 and published in IEEE Xplore.
                   <br /><br />
-                  Additionally, we developed an ammonia leakage detection and trip prediction system using a Naïve Bayes (NB) model, showcased at ICRPSET-2024. Our work on enhancing cybersecurity in industrial power electronics through Random Forest tuning was presented at ICCIT-2024. Another ongoing project involves an ANN-driven feature selection-based heart disease classification model, integrated into a web-based application, soon to be submitted to a journal.
-                  <span className="underline cursor-pointer pl-1"> See more</span>
+                  Additionally, we developed an ammonia leakage detection and trip prediction system using a Naïve Bayes model, showcased at ICRPSET-2024. Our work on enhancing cybersecurity in industrial power electronics through Random Forest tuning was presented at ICCIT-2024. Another ongoing project involves an ANN-driven feature selection-based heart disease classification model, integrated into a web-based application, soon to be submitted to a journal.
+                  <span className="underline cursor-pointer ml-2">See more</span>
                 </div>
                 <div
                   className="w-full md:w-1/3 aspect-[4/3] rounded-lg bg-cover bg-center"
@@ -129,7 +129,7 @@ function Home() {
                   The Lift Centralization Project, assigned by the university’s engineering department, aims to improve the monitoring and emergency response system for lifts across the campus. With approximately 48 lifts in different buildings, emergency alerts currently reach only the lobby intercom, requiring on-site technical staff in each building.
                   <br /><br />
                   This project seeks to wirelessly centralize the lift monitoring system. When an emergency button is pressed inside a lift, an alert is transmitted to a control room. Additionally, the system will enable direct communication, allowing passengers to speak with technical staff from inside the lift during emergencies, improving response efficiency.
-                  <span className="underline cursor-pointer pl-1"> See more</span>
+                  <span className="underline cursor-pointer ml-2">See more</span>
                 </div>
                 <div
                   className="w-full md:w-1/3 aspect-[4/3] rounded-lg bg-cover bg-center"
@@ -147,7 +147,7 @@ function Home() {
                   The Event Participation Program in our lab focuses on designing and developing innovative robots and devices for national and international competitions. So far, we have built Soccer Bots and Line Following Robots (LFR) and successfully participated in events such as BITFEST 2025, organized by CSE, KUET, and NSU Tech Fest 2025.
                   <br /><br />
                   Beyond these, we are also working on drones, battle bots, and racing bots, preparing them for upcoming competitions. The program encourages junior students to join, offering them opportunities to gain hands-on technical experience while actively competing in robotics and engineering challenges. Future plans include expanding our participation in global tech events, further refining our innovations, and collaborating with industry professionals to push the boundaries of robotics.
-                  <span className="underline cursor-pointer pl-1">See more</span>
+                  <span className="underline cursor-pointer ml-2">See more</span>
                 </div>
                 <div
                   className="w-full md:w-1/3 aspect-[4/3] rounded-lg bg-cover bg-center"
