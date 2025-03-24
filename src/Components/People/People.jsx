@@ -32,7 +32,7 @@ function People() {
       name: "MD Shameem Ahammed",
       dept: "Graduated from Depertment of EEE",
       session: "2018-19",
-      email: "shameemjkkniu.eee@gmail.com",
+      email1: "shameemjkkniu.eee@gmail.com",
       interest: "Machine Learning, Medical Science, Healthcare, Industrial Power Electronics, Cybersecurity and Robotics",
       portfolio:"https://sites.google.com/view/shameem3e",
       portVi:"portfolio",
