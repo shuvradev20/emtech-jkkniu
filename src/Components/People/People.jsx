@@ -121,7 +121,7 @@ function People() {
               <li className='font-semibold'>Dr. Md Mahbubur Rahman</li>
               <li>Associate Professor, Depertment of EEE</li>
               <li>mahbubur.ice@gmail.com</li>
-              <li> <span className='font-semibold'>Research Interest:</span> Li incidunt exercitationem sint, atque non ete aspernatur reiciendis nesciunt in explicabo mollitia neque id?</li>
+              <li> <span className='font-semibold'>Research Interest:</span>Wireless Communication & Networks, Internet of Things, Machine Learning & AI Applications, Network Security & Performance Analysis, Embedded Systems & Edge Computing</li>
               <li className='text-sm'>
                 <a href="/CV_Mahbubur_latest.pdf" target="_blank" rel="noopener noreferrer" className=" pr-2 italic underline">
                   View CV
