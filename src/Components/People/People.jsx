@@ -102,9 +102,9 @@ function People() {
     { name: "Siyam Sheikh", email: "siyamsheikheee@gmail.com", image: Siyam },
     { name: "Shaugat Bin Rafiq Shifat", email: "shaugatbinrafiqshifat@gmail.com", image: Shaugat },
     { name: "Shoukot Islam", email: "shoukotislam1319@gmail.com", image: Shoukot },
-    { name: "Md. Atiq Rahaman Mahi", email: "atiqrahaman01@gmail.com", image: Atiq },
+    { name: "Md Atiq Rahaman Mahi", email: "atiqrahaman01@gmail.com", image: Atiq },
     { name: "Mahjabin Ahmed Nabila", email: "nabila3182005@gmail.com", image: Mahjabin },
-    { name: "MD. Eashak", email: "mdeashak519@gmail.com", image: eashak },
+    { name: "MD Eashak", email: "mdeashak519@gmail.com", image: eashak },
   ];
 
   const [isOpen, setIsOpen] = useState(false)
@@ -164,7 +164,7 @@ function People() {
           ))}
       </div>
 
-      <div className='w-full h-auto md:min-h-45 my-4 md:px-40 flex flex-wrap flex-col justify-start items-center'>
+      <div className='w-full h-auto md:min-h-45 my-4 md:px-35 flex flex-wrap flex-col justify-start items-center'>
         <div className=' border-b-1 border-b-black mb-4 w-full flex justify-between'>
           <p className=' text-xl md:text-2xl py-2 pl-4 font-bold'>Lab Associates</p>
           <button 
