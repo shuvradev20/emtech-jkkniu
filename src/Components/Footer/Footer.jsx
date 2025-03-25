@@ -39,7 +39,7 @@ function Footer() {
           <a href='https://www.linkedin.com/company/emtechjkkniu/' target='blank'>
                 <FontAwesomeIcon icon={faLinkedin} className=' text-gray-300 hover:text-white text-xl md:text-2xl transition duration-300' />
           </a>
-          <a href="https://wa.me/0171256442" target="_blank">
+          <a href="https://wa.me/+8801712564429" target="_blank">
             <FontAwesomeIcon icon={faSquareWhatsapp} className=' text-gray-300 hover:text-white text-xl md:text-2xl transition duration-300'/>
           </a>
         </div>
